@@ -1,13 +1,10 @@
 /*
 1.Change Over Time Analysis
-Purpose:
-    - To track trends, growth, and changes in key metrics over time.
-    - For time-series analysis and identifying seasonality.
-    - To measure growth or decline over specific periods.
-
-SQL Functions Used:
-    - Date Functions: EXTRACT(), YEAR(), MONTH()
-    - Aggregate Functions: SUM(), COUNT()
+- Purpose:
+    + To track trends, growth, and changes in key metrics over time.
+    + For time-series analysis and identifying seasonality.
+    + To measure growth or decline over specific periods.
+- SQL Functions Used: Date Functions EXTRACT(), YEAR(), MONTH(); SUM(), COUNT()
 */
 USE gold;
 
