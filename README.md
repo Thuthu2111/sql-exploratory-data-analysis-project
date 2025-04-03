@@ -9,4 +9,5 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 Hi there! I'm **Thu Nguyen Hoai**, self-taught Data Analyst in Hochiminh, Vietnam. This github is created to upload my projects while learning data analysis. 
+
 FYI: This project is created based on the guidance of Youtuber Data With Baraa if you need get further information. 
